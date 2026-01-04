@@ -37,10 +37,6 @@ Essas observações apontam para uma distinção que frequentemente é ignorada 
 
 Competência isolada, por mais sofisticada que seja, não implica compreensão global do ambiente nem a existência de uma identidade cognitiva estável. Sem essas propriedades, os sistemas atuais permanecem ferramentas extremamente poderosas, mas estruturalmente limitadas. Reconhecer essas limitações não diminui os avanços alcançados, mas estabelece com clareza por que eles não constituem, por si só, um caminho direto para a consciência artificial ou para a AGI.
 
-> **Inteligência operacional ≠ Consciência ≠ AGI**
-
-A competência isolada não implica compreensão global, tampouco identidade cognitiva.
-
 ---
 
 ## 3. Neuroinspiração como Ponto de Partida
