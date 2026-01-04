@@ -55,8 +55,6 @@ Nesse contexto, a neuroinspiração deve ser entendida como uma estratégia de a
 
 A afirmação de que Brodmann é uma restrição inicial, e não um modelo final, sintetiza essa posição. O valor do mapa cortical está em oferecer um ponto de ancoragem estrutural, não em prescrever funções cognitivas. A partir dele, torna-se possível construir abstrações computacionais que respeitem a necessidade de organização interna sem ficarem presas à anatomia biológica. É nesse equilíbrio entre inspiração e abstração que a neuroinspiração se torna realmente produtiva para o desenvolvimento de arquiteturas cognitivas artificiais.
 
-> **Brodmann é uma restrição inicial, não um modelo final.**
-
 ---
 
 ## 4. Transição para Arquiteturas Funcionais Abstratas
