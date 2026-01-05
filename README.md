@@ -6,6 +6,13 @@
 </p>
  
 ---
+## Resumo
+
+O artigo sustenta que a Inteligência Artificial Geral não deve ser tratada como um objetivo direto de engenharia baseado em desempenho, escala ou métricas externas, mas como uma propriedade emergente de arquiteturas capazes de sustentar consciência artificial funcional. Ele critica a visão dominante que confunde generalidade com ampliação de parâmetros, dados e poder computacional, argumentando que sistemas atuais (apesar de altamente competentes) operam apenas no nível de correlação estatística, sem auto-modelo, continuidade temporal, intencionalidade interna ou identidade cognitiva. A consequência é clara: desempenho impressionante não equivale a cognição geral.
+
+A proposta central defende que a "AGI" emerge quando uma arquitetura integra globalmente a informação, mantém estados internos contínuos no tempo, constrói um modelo funcional de si mesma e equilibra plasticidade com estabilidade. Para isso, o trabalho articula neuroinspiração abstrata (não biologismo literal), arquiteturas funcionais dinâmicas, memória ativa, aprendizado contínuo, integração global (Global Workspace, integração causal, auto-modelagem) e formalização explícita via modelos como Statecharts. A conclusão é incisiva: sem consciência funcional como fundamento arquitetural, a "AGI" permanece um rótulo otimista; com ela, a generalidade deixa de ser meta e passa a ser consequência inevitável.
+
+---
 
 ## 1. Introdução
 
@@ -16,6 +23,7 @@ No debate contemporâneo, como apontam Bergmann e Stryker, a AGI é frequentemen
 A consequência direta desse enquadramento é a confusão entre desempenho e cognição. Sistemas podem exibir competências impressionantes em múltiplas tarefas sem, no entanto, possuírem qualquer forma de unidade cognitiva subjacente. A ausência de uma arquitetura formalmente definida permite que a AGI seja tratada mais como um rótulo progressivo do que como um objeto científico rigoroso, dificultando tanto sua análise quanto sua validação teórica.
 
 Tegmark amplia essa discussão ao inserir a AGI em um contexto sociotécnico e histórico mais amplo. Em sua perspectiva, a AGI aparece como um destino quase inevitável do avanço tecnológico, impulsionado por curvas de crescimento exponencial em computação, dados e algoritmos. Essa narrativa, embora poderosa, tende a naturalizar a ideia de que a complexidade cognitiva emerge automaticamente do aumento de escala. O problema central é que essa visão raramente especifica como propriedades cognitivas gerais, como compreensão, intencionalidade ou consciência, surgiriam a partir desse processo. O salto conceitual entre mais parâmetros e mais cognição é frequentemente assumido, não demonstrado.
+
 
 A lacuna apontada aqui é a ausência de um mecanismo causal claro que conecte diretamente a expansão quantitativa de sistemas artificiais à emergência de propriedades qualitativamente novas. Sem esse mecanismo, a AGI permanece mais próxima de uma expectativa tecnológica do que de um fenômeno explicável. A história da ciência mostra que propriedades emergentes complexas exigem estruturas organizacionais específicas, e não apenas aumento de recursos. Ignorar essa exigência enfraquece a base teórica do próprio conceito de AGI.
 
