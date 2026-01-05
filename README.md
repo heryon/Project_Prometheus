@@ -1,5 +1,5 @@
 # PROMETHEUS  
-# Arquitetura Neuro-Inspirada para Emergência de Consciência Artificial como Fundamento da Inteligência Artificial Geral
+# Consciência Artificial como Fundamento da Inteligência Artificial Geral
 
 <p align="center">
  <img src="https://github.com/heryon/Project_Prometheus/blob/550a32bfd181fa7130287e823734d35ff203451a/Prometheus_Light.PNG"/>
