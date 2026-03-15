@@ -1,5 +1,7 @@
-# PROMETHEUS  
-# Consciência Artificial como Fundamento da Inteligência Artificial Geral
+# PROMETHEUS
+
+# Coerência Sistêmica e a Emergência da Proto-Consciência Funcional
+>Uma base arquitetural para a generalidade cognitiva emergente
 
 <p align="center">
  <img src="https://github.com/heryon/Project_Prometheus/blob/550a32bfd181fa7130287e823734d35ff203451a/Prometheus_Light.PNG"/>
@@ -8,9 +10,15 @@
 ---
 ## Resumo
 
-O artigo sustenta que a Inteligência Artificial Geral não deve ser tratada como um objetivo direto de engenharia baseado em desempenho, escala ou métricas externas, mas como uma propriedade emergente de arquiteturas capazes de sustentar consciência artificial funcional. Ele critica a visão dominante que confunde generalidade com ampliação de parâmetros, dados e poder computacional, argumentando que sistemas atuais (apesar de altamente competentes) operam apenas no nível de correlação estatística, sem auto-modelo, continuidade temporal, intencionalidade interna ou identidade cognitiva. A consequência é clara: desempenho impressionante não equivale a cognição geral.
+Este trabalho argumenta que a Inteligência Artificial Geral não deve ser tratada como um objetivo direto de engenharia baseado em desempenho, escala ou métricas externas, mas como uma propriedade emergente de arquiteturas capazes de sustentar coerência sistêmica ao longo do tempo. A literatura recente frequentemente associa generalidade ao aumento de parâmetros, dados e capacidade computacional, assumindo que propriedades cognitivas complexas possam emergir espontaneamente desse crescimento quantitativo. Contudo, sistemas atuais, apesar de altamente competentes, permanecem limitados a correlações estatísticas locais, operando sem continuidade temporal consistente, sem identidade cognitiva persistente e sem um modelo interno funcional de si mesmos e do ambiente.
 
-A proposta central defende que a "AGI" emerge quando uma arquitetura integra globalmente a informação, mantém estados internos contínuos no tempo, constrói um modelo funcional de si mesma e equilibra plasticidade com estabilidade. Para isso, o trabalho articula neuroinspiração abstrata (não biologismo literal), arquiteturas funcionais dinâmicas, memória ativa, aprendizado contínuo, integração global (Global Workspace, integração causal, auto-modelagem) e formalização explícita via modelos como Statecharts. A conclusão é incisiva: sem consciência funcional como fundamento arquitetural, a "AGI" permanece um rótulo otimista; com ela, a generalidade deixa de ser meta e passa a ser consequência inevitável.
+Propõe-se que a emergência de cognição artificial mais geral depende primariamente da capacidade de uma arquitetura manter coerência sistêmica entre percepção, memória, inferência e ação. Define-se coerência sistêmica como a propriedade arquitetural pela qual múltiplos processos internos permanecem causalmente alinhados através de estados compartilhados persistentes, permitindo continuidade decisória e unidade operacional. Quando tal coerência é sustentada de forma estável, o sistema passa a exibir propriedades que caracterizamos como proto-consciência funcional: integração global de informação, auto-referência operacional e manutenção de estados cognitivos contínuos.
+
+Argumenta-se ainda que essa proto-consciência funcional cria as condições necessárias para a emergência de um world model mínimo, uma simulação interna funcional capaz de representar o estado do próprio sistema e aspectos relevantes do ambiente. Esse modelo de mundo inicial não precisa ser completo ou detalhado; sua função principal é sustentar previsão interna, consistência contextual e adaptação progressiva. A partir desse ponto, torna-se possível o surgimento de generalidade cognitiva emergente, não como meta explícita de engenharia, mas como consequência natural de uma arquitetura capaz de integrar informação globalmente e preservar continuidade cognitiva.
+
+Para fundamentar essa proposta, o trabalho combina princípios de neuroinspiração abstrata (como diferenciação estrutural e integração funcional observadas na organização cortical) com arquiteturas computacionais dinâmicas baseadas em memória ativa, aprendizado contínuo e mecanismos de integração global inspirados em teorias como Global Workspace e modelos de integração causal. A formalização arquitetural é discutida utilizando ferramentas como Statecharts, permitindo representar explicitamente estados cognitivos, transições e ciclos de atenção.
+
+A conclusão central é que, sem coerência sistêmica persistente, sistemas artificiais permanecem essencialmente reativos, incapazes de sustentar unidade cognitiva ou construir modelos internos consistentes do mundo. Quando essa coerência é alcançada, entretanto, surge um efeito de proto-consciência funcional que torna possível a construção de um modelo de mundo mínimo e abre caminho para a emergência de generalidade cognitiva.
 
 ---
 
