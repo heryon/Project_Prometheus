@@ -103,7 +103,7 @@ Em conjunto, esses desenvolvimentos reforçam a ideia de que a temporalidade nã
 
 ---
 
-## 6.Integração Global e Proto-Consciência Funcional
+## 6. Integração Global e Proto-Consciência Funcional
 
 A noção de consciência funcional, quando deslocada do campo fenomenológico para o computacional, pode ser entendida como a capacidade de um sistema integrar informação de forma global, tornando determinados conteúdos amplamente acessíveis aos seus próprios processos internos. Essa integração não ocorre de maneira passiva. Ela envolve mecanismos de compartilhamento, priorização e alinhamento entre múltiplos processos internos, permitindo que diferentes subsistemas operem a partir de um contexto informacional comum. Nesse sentido, a consciência funcional não corresponde a um módulo específico do sistema, mas a uma propriedade organizacional que emerge da coordenação entre processos distribuídos.
 
