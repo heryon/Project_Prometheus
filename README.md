@@ -176,37 +176,69 @@ Em síntese, a inteligência artificial geral deve ser entendida como uma propri
 
 ## Referências
 
-- Bergmann, D., & Stryker, C. (2023). What is Artificial General Intelligence (AGI)? IBM Think, retrieved from https://www.ibm.com/think/topics/artificial-general-intelligence
+- Bergmann, D., & Stryker, C. (2023). What is Artificial General Intelligence (AGI)? IBM Think. https://www.ibm.com/think/topics/artificial-general-intelligence
+
+- Baars, B. J. (1988). A Cognitive Theory of Consciousness. Cambridge University Press.
+
+- Baars, B. J. (1997). In the Theater of Consciousness: The Workspace of the Mind. Oxford University Press.
 
 - Bellec, G., Scherr, F., Subramoney, A., Hajek, E., Salaj, D., Legenstein, R., & Maass, W. (2020). A solution to the learning dilemma for recurrent networks of spiking neurons. Nature Communications, 11, 3625.
 
 - Boahen, K. (2005). Neuromorphic microchips. Scientific American, 292(5), 56–63.
 
-- Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., … & Houlsby, N. (2021). An image is worth 16×16 words: Transformers for image recognition at scale. arXiv:2010.11929.
+- Brodmann, K. (1909). Vergleichende Lokalisationslehre der Grosshirnrinde in ihren Prinzipien dargestellt auf Grund des Zellenbaues. Johann Ambrosius Barth.
+
+- Brodmann, K. (1912). Neue Ergebnisse über die vergleichende Histologie der Großhirnrinde mit besonderer Berücksichtigung des Stirnhirns. Anatomischer Anzeiger, 41, 157–216.
+
+- Dehaene, S. (2014). Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts. Viking.
+
+- Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., et al. (2021). An image is worth 16×16 words: Transformers for image recognition at scale. arXiv:2010.11929.
 
 - Edelman, G. M. (1987). Neural Darwinism: The Theory of Neuronal Group Selection. Basic Books.
 
+- Edelman, G. M., & Tononi, G. (2000). A Universe of Consciousness: How Matter Becomes Imagination. Basic Books.
+
+- Finn, C., Abbeel, P., & Levine, S. (2017). Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. Proceedings of ICML.
+
 - Floreano, D., & Mattiussi, C. (2008). Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies. MIT Press.
 
-- Graziano, M. S. (2013). Consciousness and the Social Brain. Oxford University Press.
+- Franklin, S., Ramamurthy, U., & D’Mello, S. (2007). LIDA: A computational model of global workspace theory and developmental learning. AI Magazine, 28(2), 13–38.
+
+- Fries, P. (2005). A mechanism for cognitive dynamics: neuronal communication through neuronal coherence. Trends in Cognitive Sciences, 9(10), 474–480.
+
+- Friston, K. (2010). The free-energy principle: A unified brain theory? Nature Reviews Neuroscience, 11(2), 127–138.
+
+- Geyer, S., et al. (1996). Brodmann’s areas revisited: cytoarchitecture and modern imaging. NeuroImage, 4(1), 84–91.
+
+- Graziano, M. S. A. (2013). Consciousness and the Social Brain. Oxford University Press.
+
+- Graziano, M. S. A. (2019). Rethinking Consciousness: A Scientific Theory of Subjective Experience. W. W. Norton & Company.
 
 - Guss, W. H., Perez-Liebana, D., Codel, C., Hofmann, K., & Schaul, T. (2019). The MineRL competition on sample efficient reinforcement learning using human priors. arXiv:1904.10079.
+
+- Harel, D. (1987). Statecharts: A visual formalism for complex systems. Science of Computer Programming, 8(3), 231–274.
 
 - Hebb, D. O. (1949). The Organization of Behavior: A Neuropsychological Theory. Wiley.
 
 - Johnson, J., Douze, M., & Jégou, H. (2019). Billion-scale similarity search with GPUs. IEEE Transactions on Big Data, 7(3), 535–547.
 
-- Johnson, M., Hofmann, K., Hutton, T., & Bignell, D. (2016). The Malmo platform for artificial intelligence experimentation. Proceedings of the IJCAI.
+- Johnson, M., Hofmann, K., Hutton, T., & Bignell, D. (2016). The Malmo platform for artificial intelligence experimentation. Proceedings of IJCAI.
 
 - Kandel, E. R., Schwartz, J. H., & Jessell, T. M. (2000). Principles of Neural Science (4th ed.). McGraw-Hill.
+
+- Kemker, R., McClure, M., Abitino, A., Hayes, T., & Kanan, C. (2018). Measuring catastrophic forgetting in neural networks. arXiv:1811.03600.
+
+- Kudithipudi, D., Schuman, C. D., Vineyard, C. M., et al. (2025). Neuromorphic computing at scale. Nature, 637, 801–812.
 
 - Maass, W. (2014). Noise as a resource for computation and learning in networks of spiking neurons. Proceedings of the IEEE, 102(5), 860–880.
 
 - Merzenich, M. M. (2013). Soft-Wired: How the New Science of Brain Plasticity Can Change Your Life. Parnassus Publishing.
 
-- Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., … & Hassabis, D. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529–533.
+- Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., et al. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529–533.
 
-- Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., … & Hassabis, D. (2017). Mastering the game of Go without human knowledge. Nature, 550(7676), 354–359.
+- Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., et al. (2017). Mastering the game of Go without human knowledge. Nature, 550(7676), 354–359.
+
+- Singer, W. (1999). Neuronal synchrony: a versatile code for the definition of relations? Neuron, 24(1), 49–65.
 
 - Stanley, K. O., & Miikkulainen, R. (2002). Evolving neural networks through augmenting topologies. Evolutionary Computation, 10(2), 99–127.
 
@@ -214,33 +246,17 @@ Em síntese, a inteligência artificial geral deve ser entendida como uma propri
 
 - Tegmark, M. (2017). Life 3.0: Being Human in the Age of Artificial Intelligence. Knopf.
 
-- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., … & Polosukhin, I. (2017). Attention is all you need. Advances in Neural Information Processing Systems.
-
-- Yao, X. (1999). Evolving artificial neural networks. Proceedings of the IEEE, 87(9), 1423–1447.
-
-- Fries, P. (2005). A mechanism for cognitive dynamics: neuronal communication through neuronal coherence. Trends in Cognitive Sciences, 9(10), 474–480.
-
-- Franklin, S., Ramamurthy, U., & D’Mello, S. (2007). LIDA: A computational model of global workspace theory and developmental learning. AI Magazine, 28(2), 13–38.
-
-- Harel, D. (1987). Statecharts: A visual formalism for complex systems. Science of Computer Programming, 8(3), 231–274.
-
-- Singer, W. (1999). Neuronal synchrony: a versatile code for the definition of relations? Neuron, 24(1), 49–65.
-
 - Tononi, G. (2004). An information integration theory of consciousness. BMC Neuroscience, 5, 42.
 
-- Kudithipudi, D., Schuman, C. D., Vineyard, C. M., et al. (2025). Neuromorphic computing at scale. Nature, 637, 801–812.
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., et al. (2017). Attention is All You Need. Advances in Neural Information Processing Systems.
 
-- Finn, C., Abbeel, P., & Levine, S. (2017). Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. Proceedings of ICML.
-
-- Kemker, R., et al. (2018). Patterns in continual learning with neural networks. arXiv:1811.03600.
-  
-- Brodmann, K. (1909). Vergleichende Lokalisationslehre der Grosshirnrinde in ihren Prinzipien dargestellt auf Grund des Zellenbaues. Johann Ambrosius Barth.
-
-- Brodmann, K. (1912). Neue Ergebnisse über die vergleichende Histologie der Großhirnrinde mit besonderer Berücksichtigung des Stirnhirns. Anatomischer Anzeiger, 41, 157–216.
+- Yao, X. (1999). Evolving artificial neural networks. Proceedings of the IEEE, 87(9), 1423–1447.
 
 - Zilles, K., & Amunts, K. (2010). Centenary of Brodmann’s map: conception and fate. Nature Reviews Neuroscience, 11(2), 139–145.
 
 - Amunts, K., et al. (2013). BigBrain: an ultrahigh-resolution 3D human brain model. Science, 340(6139), 1472–1475.
 
-- Geyer, S., et al. (1996). Brodmann’s areas revisited: cytoarchitecture and modern imaging. NeuroImage, 4(1), 84–91.
+- Park, J., O’Brien, J., Cai, C., et al. (2023). Generative Agents: Interactive Simulacra of Human Behavior. Proceedings of the ACM Symposium on User Interface Software and Technology. (Project SID related work)
+
+- Park, J., O’Brien, J., Cai, C., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). Generative Agents: Interactive Simulacra of Human Behavior. arXiv:2304.03442.
 
